@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shivamkulshreshtha
 - 👀 I’m interested in ...Coding
 - 🌱 I’m currently learning ...Selenium
-- 💞️ I’m looking to collaborate on ...Machine Learning
+- 💞️ I’m looking to collaborate on ...Automation
 - 📫 How to reach me ...Ping me on Whatsapp 9910559690
 
 <!---
